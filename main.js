@@ -60,17 +60,17 @@ nextTwo.onclick = (function() {
     nextThree.hidden = false;
     nextTwo.hidden = true;
     document.getElementById('word-one').innerHTML = 'HAP-';
-    document.getElementById('letter-note-one').innerHTML = 'G';
+    document.getElementById('letter-note-one').innerHTML = 'C';
     document.getElementById('word-two').innerHTML = 'PY';
-    document.getElementById('letter-note-two').innerHTML = 'G';
+    document.getElementById('letter-note-two').innerHTML = 'C';
     document.getElementById('word-three').innerHTML = 'BIRTH-';
-    document.getElementById('letter-note-three').innerHTML = 'G';
+    document.getElementById('letter-note-three').innerHTML = 'C+';
     document.getElementById('word-four').innerHTML = 'DAY';
-    document.getElementById('letter-note-four').innerHTML = 'E';
+    document.getElementById('letter-note-four').innerHTML = 'A';
     document.getElementById('word-five').innerHTML = 'DEAR';
-    document.getElementById('letter-note-five').innerHTML = 'C';
+    document.getElementById('letter-note-five').innerHTML = 'F';
     document.getElementById('word-six').innerHTML = 'FRI-';
-    document.getElementById('letter-note-six').innerHTML = 'B';
+    document.getElementById('letter-note-six').innerHTML = 'E';
     lastLyric.style.display = 'inline-block';
   });
 
